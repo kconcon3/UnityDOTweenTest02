@@ -12,4 +12,5 @@ Visual Studio Community 2017
 DOTween v1.2.055 (Release build)  
 
 ## 詳細
+[http://kconcon3.hatenablog.com/entry/2018/10/23/220000](http://kconcon3.hatenablog.com/entry/2018/10/23/220000) を参照して下さい
 
