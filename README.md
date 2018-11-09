@@ -1,5 +1,3 @@
-# UnityDOTweenTest02
-
 ## 概要  
 UnityのDOTweenを試してみる Part2  
 <br />
